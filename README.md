@@ -8,6 +8,9 @@ This approach aims to maintain an organized queuing process for individuals visi
 
 In your solution you must provide the following in your Github link account:
 
-  Problem statement (description of the problem. Just copy what is stated here).
-  UML Class Diagram
-  Uploaded java codes for the solution.
+- Problem statement (description of the problem. Just copy what is stated here).
+- UML Class Diagram
+- Uploaded java codes for the solution.
+
+# UML Diagram:
+<img width="926" height="580" alt="image" src="https://github.com/user-attachments/assets/e314cd5e-2a8a-4bdd-afe9-4d1879640ef8" />
