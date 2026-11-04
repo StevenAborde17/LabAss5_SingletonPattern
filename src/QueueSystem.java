@@ -4,7 +4,7 @@ public class QueueSystem {
 
     private QueueSystem() {}
 
-    public static QueueSystem getInstance() {
+    public synchronized static QueueSystem getInstance() {
         if (instance == null) {
             instance = new QueueSystem();
         }
@@ -27,7 +27,6 @@ public class QueueSystem {
             return;
         } else {
             System.out.println("\nQueue number reset to: " + newQueueNumber);
-            currentQueueNumber = newQueueNumber;
         }
     }
 }
